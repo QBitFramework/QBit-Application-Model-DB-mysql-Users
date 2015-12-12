@@ -1,1 +1,5 @@
-.project
+/.project
+/.includepath
+/.build/*
+/QBit-Application-Model-DB-mysql-Users*
+/qbit-application-model-db-mysql-users*
