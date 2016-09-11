@@ -33,3 +33,33 @@ __PACKAGE__->meta(
 );
 
 TRUE;
+
+__END__
+
+=encoding utf8
+
+=head1 Name
+
+QBit::Application::Model::DB::mysql::Users - MySQL tables for QBit::Application::Model::DBManager::Users.
+
+=head1 GitHub
+
+https://github.com/QBitFramework/QBit-Application-Model-DB-mysql-Users
+
+=head1 Install
+
+=over
+
+=item *
+
+cpanm QBit::Application::Model::DB::mysql::Users
+
+=item *
+
+apt-get install libqbit-application-model-db-mysql-users-perl (http://perlhub.ru/)
+
+=back
+
+For more information. please, see code.
+
+=cut
